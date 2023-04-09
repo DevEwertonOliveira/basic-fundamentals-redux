@@ -17,3 +17,4 @@ store.dispatch(removeTask({ id: 1 }));
 console.log(store.getState());
 
 store.dispatch(addEmployee({ name: "Harley" }));
+store.dispatch({ type: "SHOW_ERROR", payload: { error: "User not found!" } });
