@@ -1,0 +1,3 @@
+{
+	"payload": "[{\"type\":\"ADD_TASK\",\"payload\":{\"task\":\"Task 1\"}},{\"type\":\"ADD_TASK\",\"payload\":{\"task\":\"Task 2\"}},{\"type\":\"TASK_COMPLETED\",\"payload\":{\"id\":2}},{\"type\":\"REMOVE_TASK\",\"payload\":{\"id\":1}}]"
+}
